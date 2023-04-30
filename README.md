@@ -2,3 +2,4 @@
 Question 1- This took me a lot of time and research. I decided I wanted to go for a cyberpunk esque vibe with my bubbles. https://editor.p5js.org/deacon.waitkevitch/sketches/FBxabn1Sd
 Question 2- https://editor.p5js.org/deacon.waitkevitch/sketches/Sq0npbGYU
 Question 3- Did this on the same link as the previous assignment, I added tadpoles as my breeders and seabass as my harvesters. Did as a function going to convert to classes next assignment. 
+Added tadpoles (breeders) and made it so that they bounce back when they hit walls. This was hard. 
