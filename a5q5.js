@@ -12,10 +12,10 @@ function setup() {
   //breeders
   for (let i = 0; i < 50; i++) {
     tadpoles[i] = new Tadpole(
-      random(width),
-      random(height),
-      random(2, 5),
-      random(2, 5)
+//       random(width),
+//       random(height),
+//       random(2, 5),
+//       random(2, 5)
     );
   }
 
